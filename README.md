@@ -1,4 +1,4 @@
-Intro
+#Intro
 Specification of task 1
 Разработайте программу, которая выводит в Standard Output следующее предложение:
 
